@@ -1,0 +1,10 @@
+E:\Programming\vb.net\GSM_Market\GSM_Market\obj\x86\Debug\GSM_Market.Properties.Resources.resources
+E:\Programming\vb.net\GSM_Market\GSM_Market\obj\x86\Debug\GSM_Market.csproj.GenerateResource.Cache
+E:\Programming\vb.net\GSM_Market\GSM_Market\bin\Debug\GSM_Market.exe
+E:\Programming\vb.net\GSM_Market\GSM_Market\bin\Debug\GSM_Market.pdb
+E:\Programming\vb.net\GSM_Market\GSM_Market\obj\x86\Debug\GSM_Market.exe
+E:\Programming\vb.net\GSM_Market\GSM_Market\obj\x86\Debug\GSM_Market.pdb
+E:\Programming\vb.net\GSM_Market\GSM_Market\obj\x86\Debug\GSM_Market.csprojResolveAssemblyReference.cache
+E:\Programming\vb.net\GSM_Market\GSM_Market\obj\x86\Debug\GSM_Market.key_pass.resources
+E:\Programming\vb.net\GSM_Market\GSM_Market\obj\x86\Debug\GSM_Market.MainForm.resources
+E:\Programming\vb.net\GSM_Market\GSM_Market\obj\x86\Debug\GSM_Market.Developer_mode.resources
